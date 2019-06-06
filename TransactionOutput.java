@@ -13,7 +13,7 @@ import javax.jws.WebParam;
 
 /**
  *
- * @author BOG-A209-E-003
+ * @author Clase
  */
 @WebService(serviceName = "TransactionOutput")
 public class TransactionOutput {
